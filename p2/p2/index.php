@@ -15,7 +15,7 @@ ini_set('display_errors', 1);
 	<!-- Print the rappers array -->
 
 	<div class='container'>
-	<h1>xkcd Password Generator </h1>
+	<h1>xkcd Password Generator</h1>
 	This is a simple password generator for Project 2.<br>
 	The words are easy to remember especially if you're an NWA fan.<br>
 
