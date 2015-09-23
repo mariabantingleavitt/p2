@@ -5,7 +5,7 @@
 <https://p2.mariabl.me>
 
 ## GitHub URL
-<https://github.com/mariabantingleavitt/p2>
+<https://github.com/mariabantingleavitt/htdocs/tree/master/p2>
 
 ## Description
 > P2 for dwa15 using the xkcd style password generator file created in Lecture 3.
