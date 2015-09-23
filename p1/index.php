@@ -19,8 +19,8 @@
 <img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/291797_2184569625229_7451738_n.jpg?oh=4b1981f57df5865d7502909bbf444ecf&oe=56603472" alt="me" style="width:275px;height:325px;">
 
 <div class="p2">
-  <h2>Project 2 Title</h2>
-  <p>View: [link] Github: [link]</p>
+  <h2>Project 2 Password Generator</h2>
+  <p><a href=https://p2.mariabl.me>View</a><br><a href=https://github.com/mariabantingleavitt/p2>Github</a></p>
 </div>
 
 <div class="p3">
