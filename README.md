@@ -3,6 +3,7 @@
 ----
 ## Live URL
 <http://p2.mariabl.me/>
+<http://p2.mariabl.me/htdocs>
 
 ## GitHub URL
 <https://github.com/mariabantingleavitt/htdocs>
