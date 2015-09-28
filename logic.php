@@ -1,5 +1,4 @@
 <?php
-// written by Maria
 
 require_once('ripcurl.class.php');
   $rip = new ripcurl();
