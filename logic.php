@@ -1,5 +1,5 @@
 <?php
-
+//Maria Banting-Leavitt
 require_once('ripcurl.class.php');
   $rip = new ripcurl();
 //  Declare Variables  //
