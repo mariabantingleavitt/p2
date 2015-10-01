@@ -3,11 +3,9 @@
 ----
 ## Live URL
 <http://p2.mariabl.me/>
-<br/>
-<http://p2.mariabl.me/htdocs>
 
 ## GitHub URL
-<https://github.com/mariabantingleavitt/htdocs>
+<https://github.com/mariabantingleavitt/p2>
 
 ## Description
 > P2 for dwa15 password generator.
