@@ -2,21 +2,26 @@
 <html>
 <head>
 
+<style>
+body {background-color:beige}
+h1   {color:green}
+p    {color:olive}
+</style>
+
 		<title>xkcd Password Generator</title>
 
-	<body>
+	<body style="background-color: beige">
 
 	<div class='container'>
-		<h1>xkcd Password Generator </h1>
+		<h1 color="green">xkcd Password Generator </h1>
 
 		Inspired by the comic series below, enjoy creating easy to remember passwords.<br/>
 		<a href='http://xkcd.com/936/'>
 		  <img class='comic' src='http://imgs.xkcd.com/comics/password_strength.png' alt='xkcd style passwords'>
 		</a>
 
-	<style>
-	.error {color: #FF0000;}
-	</style>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+
 
 
 </head>
