@@ -1,4 +1,4 @@
-# P2 Maria Banting-Leavitt
+# P2
 
 ----
 ## Live URL
