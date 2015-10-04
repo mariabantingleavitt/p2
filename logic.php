@@ -20,3 +20,4 @@ require_once('ripcurl.class.php');
 
   echo "<br><b>Finished with $count words.</b>";
 ?>
+# p2
